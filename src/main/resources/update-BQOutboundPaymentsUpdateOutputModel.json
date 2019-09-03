@@ -1,0 +1,23 @@
+{
+  "outboundPaymentsInstanceRecord" : {
+    "correspondentTransactionRecord" : {
+      "payerProductInstanceReference" : "764405",
+      "amount" : "USD 250",
+      "dateType" : {
+        "date" : "09-22-2018"
+      },
+      "payeeReference" : "731166",
+      "payeeProductInstanceReference" : "719708",
+      "specialInstructions" : "specialInstructions",
+      "payerReference" : "763478",
+      "payerBankReference" : "716083",
+      "payeeBankReference" : "723820",
+      "currency" : "USD",
+      "correspondedBankReference" : "785679",
+      "sWIFTTransactionReference" : "729790"
+    }
+  },
+  "updateResponseRecord" : {},
+  "outboundPaymentsUpdateActionTaskReference" : "OPUATR787988",
+  "outboundPaymentsUpdateActionTaskRecord" : {}
+}

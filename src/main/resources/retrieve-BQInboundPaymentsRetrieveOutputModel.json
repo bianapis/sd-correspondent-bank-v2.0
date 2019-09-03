@@ -1,0 +1,43 @@
+{
+  "inboundPaymentsRetrieveActionTaskRecord" : {},
+  "inboundPaymentsRetrieveActionResponse" : "inboundPaymentsRetrieveActionResponse",
+  "correspondentBankFulfillmentArrangementInstanceRecord" : {
+    "nostroMirrorAccountReference" : "755715",
+    "correspondentBankServicingSchedule" : "correspondentBankServicingSchedule",
+    "correspondentBankArrangement" : "correspondentBankArrangement",
+    "vostroAccountReference" : "705829",
+    "holidayTimezoneSchedule" : "holidayTimezoneSchedule",
+    "correspondentBankArrangementReference" : "701109"
+  },
+  "inboundPaymentsInstanceReport" : {
+    "inboundPaymentsInstanceReportType" : "inboundPaymentsInstanceReportType",
+    "inboundPaymentsInstanceReportParameters" : "inboundPaymentsInstanceReportParameters",
+    "inboundPaymentsInstanceReport" : {},
+    "inboundPaymentsInstanceReportRecord" : {}
+  },
+  "inboundPaymentsRetrieveActionTaskReference" : "IPRATR778230",
+  "inboundPaymentsInstanceAnalysis" : {
+    "inboundPaymentsInstanceAnalysisRecord" : {},
+    "inboundPaymentsInstanceAnalysisReportType" : "inboundPaymentsInstanceAnalysisReportType",
+    "inboundPaymentsInstanceAnalysisReport" : {},
+    "inboundPaymentsInstanceAnalysisParameters" : "inboundPaymentsInstanceAnalysisParameters"
+  },
+  "inboundPaymentsInstanceRecord" : {
+    "correspondentTransactionRecord" : {
+      "payerProductInstanceReference" : "782085",
+      "amount" : "USD 250",
+      "dateType" : {
+        "date" : "09-22-2018"
+      },
+      "payeeReference" : "790286",
+      "payeeProductInstanceReference" : "720980",
+      "specialInstructions" : "specialInstructions",
+      "payerReference" : "706275",
+      "payerBankReference" : "701196",
+      "payeeBankReference" : "776563",
+      "currency" : "USD",
+      "correspondedBankReference" : "711424",
+      "sWIFTTransactionReference" : "729934"
+    }
+  }
+}

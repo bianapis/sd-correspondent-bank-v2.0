@@ -1,0 +1,29 @@
+{
+  "clearingandSettlementRetrieveActionTaskRecord" : {},
+  "clearingandSettlementInstanceReport" : {
+    "clearingandSettlementInstanceReport" : {},
+    "clearingandSettlementInstanceReportRecord" : {},
+    "clearingandSettlementInstanceReportType" : "clearingandSettlementInstanceReportType",
+    "clearingandSettlementInstanceReportParameters" : "clearingandSettlementInstanceReportParameters"
+  },
+  "clearingandSettlementRetrieveActionTaskReference" : "CASRATR752771",
+  "clearingandSettlementRetrieveActionResponse" : "clearingandSettlementRetrieveActionResponse",
+  "correspondentBankFulfillmentArrangementInstanceRecord" : {
+    "nostroMirrorAccountReference" : "711394",
+    "correspondentBankServicingSchedule" : "correspondentBankServicingSchedule",
+    "correspondentBankArrangement" : "correspondentBankArrangement",
+    "vostroAccountReference" : "793734",
+    "holidayTimezoneSchedule" : "holidayTimezoneSchedule",
+    "correspondentBankArrangementReference" : "784670"
+  },
+  "clearingandSettlementInstanceAnalysis" : {
+    "clearingandSettlementInstanceAnalysisReportType" : "clearingandSettlementInstanceAnalysisReportType",
+    "clearingandSettlementInstanceAnalysisRecord" : {},
+    "clearingandSettlementInstanceAnalysisReport" : {},
+    "clearingandSettlementInstanceAnalysisParameters" : "clearingandSettlementInstanceAnalysisParameters"
+  },
+  "clearingandSettlementInstanceRecord" : {
+    "settlementTransaction" : "settlementTransaction",
+    "clearingTransaction" : "clearingTransaction"
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "inboundPaymentsUpdateActionTaskReference" : "IPUATR737235",
+  "updateResponseRecord" : {},
+  "inboundPaymentsUpdateActionTaskRecord" : {},
+  "inboundPaymentsInstanceRecord" : {
+    "correspondentTransactionRecord" : {
+      "payerProductInstanceReference" : "707100",
+      "amount" : "USD 250",
+      "dateType" : {
+        "date" : "09-22-2018"
+      },
+      "payeeReference" : "771739",
+      "payeeProductInstanceReference" : "707058",
+      "specialInstructions" : "specialInstructions",
+      "payerReference" : "781324",
+      "payerBankReference" : "788008",
+      "payeeBankReference" : "797498",
+      "currency" : "USD",
+      "correspondedBankReference" : "799526",
+      "sWIFTTransactionReference" : "765455"
+    }
+  }
+}

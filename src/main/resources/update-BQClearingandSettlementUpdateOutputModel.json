@@ -1,0 +1,13 @@
+{
+  "clearingandSettlementUpdateActionTaskReference" : "CASUATR796741",
+  "updateResponseRecord" : {},
+  "clearingandSettlementUpdateActionTaskRecord" : {},
+  "clearingandSettlementInstanceRecord" : {
+    "settlementTransaction" : "settlementTransaction",
+    "mirrorNostroAccountReference" : "784112",
+    "correspondentBankClearingArrangementSettlementInstructions" : "correspondentBankClearingArrangementSettlementInstructions",
+    "correspondentBankClearingArrangementReference" : "750547",
+    "correspondentBankClearingArrangementClearingInstructions" : "correspondentBankClearingArrangementClearingInstructions",
+    "clearingTransaction" : "clearingTransaction"
+  }
+}

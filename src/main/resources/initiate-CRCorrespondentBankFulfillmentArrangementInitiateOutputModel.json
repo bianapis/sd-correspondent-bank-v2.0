@@ -1,0 +1,14 @@
+{
+  "correspondentBankFulfillmentArrangementInitiateActionReference" : "CBFAIAR796556",
+  "correspondentBankFulfillmentArrangementInstanceReference" : "CBFAIR786001",
+  "correspondentBankFulfillmentArrangementInstanceRecord" : {
+    "nostroMirrorAccountReference" : "772974",
+    "correspondentBankServicingSchedule" : "correspondentBankServicingSchedule",
+    "correspondentBankArrangement" : "correspondentBankArrangement",
+    "vostroAccountReference" : "748411",
+    "holidayTimezoneSchedule" : "holidayTimezoneSchedule",
+    "correspondentBankArrangementReference" : "770254"
+  },
+  "correspondentBankFulfillmentArrangementInstanceStatus" : "correspondentBankFulfillmentArrangementInstanceStatus",
+  "correspondentBankFulfillmentArrangementInitiateActionRecord" : {}
+}

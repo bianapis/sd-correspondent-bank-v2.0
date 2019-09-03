@@ -1,0 +1,30 @@
+{
+  "reconciliationsInstanceRecord" : {
+    "correspondentBankReconciliationTaskReference" : "776848",
+    "correspondentBankReconciliationTaskResult" : "correspondentBankReconciliationTaskResult",
+    "correspondentBankReconciliationTaskWorkProducts" : "correspondentBankReconciliationTaskWorkProducts"
+  },
+  "reconciliationsRetrieveActionResponse" : "reconciliationsRetrieveActionResponse",
+  "reconciliationsInstanceAnalysis" : {
+    "reconciliationsInstanceAnalysisRecord" : {},
+    "reconciliationsInstanceAnalysisReport" : {},
+    "reconciliationsInstanceAnalysisParameters" : "reconciliationsInstanceAnalysisParameters",
+    "reconciliationsInstanceAnalysisReportType" : "reconciliationsInstanceAnalysisReportType"
+  },
+  "correspondentBankFulfillmentArrangementInstanceRecord" : {
+    "nostroMirrorAccountReference" : "726349",
+    "correspondentBankServicingSchedule" : "correspondentBankServicingSchedule",
+    "correspondentBankArrangement" : "correspondentBankArrangement",
+    "vostroAccountReference" : "753751",
+    "holidayTimezoneSchedule" : "holidayTimezoneSchedule",
+    "correspondentBankArrangementReference" : "726616"
+  },
+  "reconciliationsRetrieveActionTaskRecord" : {},
+  "reconciliationsInstanceReport" : {
+    "reconciliationsInstanceReportRecord" : {},
+    "reconciliationsInstanceReport" : {},
+    "reconciliationsInstanceReportType" : "reconciliationsInstanceReportType",
+    "reconciliationsInstanceReportParameters" : "reconciliationsInstanceReportParameters"
+  },
+  "reconciliationsRetrieveActionTaskReference" : "RRATR718544"
+}

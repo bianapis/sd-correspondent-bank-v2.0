@@ -1,0 +1,10 @@
+{
+  "reconciliationsInstanceRecord" : {
+    "correspondentBankReconciliationTaskReference" : "770932",
+    "correspondentBankReconciliationTaskResult" : "correspondentBankReconciliationTaskResult",
+    "correspondentBankReconciliationTaskWorkProducts" : "correspondentBankReconciliationTaskWorkProducts"
+  },
+  "updateResponseRecord" : {},
+  "reconciliationsUpdateActionTaskReference" : "RUATR747687",
+  "reconciliationsUpdateActionTaskRecord" : {}
+}

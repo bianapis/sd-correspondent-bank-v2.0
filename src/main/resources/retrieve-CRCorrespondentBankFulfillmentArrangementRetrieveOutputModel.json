@@ -1,0 +1,38 @@
+{
+  "correspondentBankFulfillmentArrangementInstanceReportRecord" : {
+    "correspondentBankFulfillmentArrangementInstanceReportType" : "correspondentBankFulfillmentArrangementInstanceReportType",
+    "correspondentBankFulfillmentArrangementInstanceReportData" : "correspondentBankFulfillmentArrangementInstanceReportData",
+    "correspondentBankFulfillmentArrangementInstanceReport" : {}
+  },
+  "correspondentBankFulfillmentArrangementRetrieveActionResponse" : "correspondentBankFulfillmentArrangementRetrieveActionResponse",
+  "correspondentBankFulfillmentArrangementInstanceRecord" : {
+    "nostroMirrorAccountReference" : "735903",
+    "correspondentBankServicingSchedule" : "correspondentBankServicingSchedule",
+    "correspondentBankArrangement" : "correspondentBankArrangement",
+    "vostroAccountReference" : "782884",
+    "holidayTimezoneSchedule" : "holidayTimezoneSchedule",
+    "correspondentBankArrangementReference" : "720308"
+  },
+  "correspondentBankFulfillmentArrangementRetrieveActionTaskReference" : "CBFARATR736175",
+  "correspondentBankFulfillmentArrangementInstanceAnalysis" : {
+    "correspondentBankFulfillmentArrangementInstanceAnalysisReportType" : "correspondentBankFulfillmentArrangementInstanceAnalysisReportType",
+    "correspondentBankFulfillmentArrangementInstanceAnalysisData" : "correspondentBankFulfillmentArrangementInstanceAnalysisData",
+    "correspondentBankFulfillmentArrangementInstanceAnalysisReport" : {}
+  },
+  "inboundPaymentsInstanceRecord" : {
+    "correspondentTransactionRecord" : {
+      "dateType" : {
+        "date" : "09-22-2018"
+      },
+      "payeeReference" : "749035",
+      "payeeProductInstanceReference" : "727985",
+      "specialInstructions" : "specialInstructions",
+      "payerReference" : "736404",
+      "payerBankReference" : "744113",
+      "payeeBankReference" : "734016",
+      "currency" : "USD",
+      "correspondedBankReference" : "716086"
+    }
+  },
+  "correspondentBankFulfillmentArrangementRetrieveActionTaskRecord" : {}
+}

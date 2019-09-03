@@ -1,0 +1,12 @@
+{
+  "correspondentBankFulfillmentArrangementInstanceRecord" : {
+    "nostroMirrorAccountReference" : "789494",
+    "correspondentBankServicingSchedule" : "correspondentBankServicingSchedule",
+    "correspondentBankArrangement" : "correspondentBankArrangement",
+    "vostroAccountReference" : "720124",
+    "holidayTimezoneSchedule" : "holidayTimezoneSchedule"
+  },
+  "correspondentBankFulfillmentArrangementUpdateActionTaskReference" : "CBFAUATR729894",
+  "updateResponseRecord" : {},
+  "correspondentBankFulfillmentArrangementUpdateActionTaskRecord" : {}
+}

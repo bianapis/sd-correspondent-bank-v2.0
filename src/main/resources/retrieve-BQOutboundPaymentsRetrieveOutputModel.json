@@ -1,0 +1,43 @@
+{
+  "outboundPaymentsInstanceRecord" : {
+    "correspondentTransactionRecord" : {
+      "payerProductInstanceReference" : "733358",
+      "amount" : "USD 250",
+      "dateType" : {
+        "date" : "09-22-2018"
+      },
+      "payeeReference" : "759191",
+      "payeeProductInstanceReference" : "791383",
+      "specialInstructions" : "specialInstructions",
+      "payerReference" : "730191",
+      "payerBankReference" : "755028",
+      "payeeBankReference" : "707294",
+      "currency" : "USD",
+      "correspondedBankReference" : "770435",
+      "sWIFTTransactionReference" : "708486"
+    }
+  },
+  "outboundPaymentsRetrieveActionTaskRecord" : {},
+  "outboundPaymentsInstanceAnalysis" : {
+    "outboundPaymentsInstanceAnalysisReportType" : "outboundPaymentsInstanceAnalysisReportType",
+    "outboundPaymentsInstanceAnalysisReport" : {},
+    "outboundPaymentsInstanceAnalysisRecord" : {},
+    "outboundPaymentsInstanceAnalysisParameters" : "outboundPaymentsInstanceAnalysisParameters"
+  },
+  "correspondentBankFulfillmentArrangementInstanceRecord" : {
+    "nostroMirrorAccountReference" : "782592",
+    "correspondentBankServicingSchedule" : "correspondentBankServicingSchedule",
+    "correspondentBankArrangement" : "correspondentBankArrangement",
+    "vostroAccountReference" : "749084",
+    "holidayTimezoneSchedule" : "holidayTimezoneSchedule",
+    "correspondentBankArrangementReference" : "745606"
+  },
+  "outboundPaymentsRetrieveActionTaskReference" : "OPRATR734496",
+  "outboundPaymentsRetrieveActionResponse" : "outboundPaymentsRetrieveActionResponse",
+  "outboundPaymentsInstanceReport" : {
+    "outboundPaymentsInstanceReportType" : "outboundPaymentsInstanceReportType",
+    "outboundPaymentsInstanceReportParameters" : "outboundPaymentsInstanceReportParameters",
+    "outboundPaymentsInstanceReportRecord" : {},
+    "outboundPaymentsInstanceReport" : {}
+  }
+}
